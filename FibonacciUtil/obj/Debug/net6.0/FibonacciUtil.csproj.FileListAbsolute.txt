@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Super Project\Ky 5\SWT\Fibonacci\FibonacciUtil\bin\Debug\net6.0\FibonacciUtil.deps.json
+C:\Users\Admin\Desktop\Super Project\Ky 5\SWT\Fibonacci\FibonacciUtil\bin\Debug\net6.0\FibonacciUtil.dll
+C:\Users\Admin\Desktop\Super Project\Ky 5\SWT\Fibonacci\FibonacciUtil\bin\Debug\net6.0\FibonacciUtil.pdb
+C:\Users\Admin\Desktop\Super Project\Ky 5\SWT\Fibonacci\FibonacciUtil\obj\Debug\net6.0\FibonacciUtil.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Super Project\Ky 5\SWT\Fibonacci\FibonacciUtil\obj\Debug\net6.0\FibonacciUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Super Project\Ky 5\SWT\Fibonacci\FibonacciUtil\obj\Debug\net6.0\FibonacciUtil.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Super Project\Ky 5\SWT\Fibonacci\FibonacciUtil\obj\Debug\net6.0\FibonacciUtil.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Super Project\Ky 5\SWT\Fibonacci\FibonacciUtil\obj\Debug\net6.0\FibonacciUtil.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Super Project\Ky 5\SWT\Fibonacci\FibonacciUtil\obj\Debug\net6.0\FibonacciUtil.dll
+C:\Users\Admin\Desktop\Super Project\Ky 5\SWT\Fibonacci\FibonacciUtil\obj\Debug\net6.0\refint\FibonacciUtil.dll
+C:\Users\Admin\Desktop\Super Project\Ky 5\SWT\Fibonacci\FibonacciUtil\obj\Debug\net6.0\FibonacciUtil.pdb
+C:\Users\Admin\Desktop\Super Project\Ky 5\SWT\Fibonacci\FibonacciUtil\obj\Debug\net6.0\ref\FibonacciUtil.dll
