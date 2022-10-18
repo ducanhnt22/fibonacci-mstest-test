@@ -1,4 +1,4 @@
-[![.NET](https://github.com/ducanhnt22/fibonacci-mstest-test/actions/workflows/ci-with-mstest.yml/badge.svg)](https://github.com/ducanhnt22/fibonacci-mstest-test/actions/workflows/ci-with-mstest.yml)
+[![CI with GitHub Action using .NET and MSTest | © 2022 ducanhnt22](https://github.com/ducanhnt22/fibonacci-mstest-test/actions/workflows/ci-with-mstest.yml/badge.svg)](https://github.com/ducanhnt22/fibonacci-mstest-test/actions/workflows/ci-with-mstest.yml)
 
 # Welcome to Fibonacci Test Using MSTest
 
