@@ -6377,9 +6377,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Super Project\\Ky 5\\SWT\\Fibonacci\\Fibonacci\\Fibonacci.csproj",
-      "projectName": "Fibonacci",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Super Project\\Ky 5\\SWT\\Fibonacci\\Fibonacci\\Fibonacci.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Super Project\\Ky 5\\SWT\\Fibonacci\\Fibonacci\\FibonacciDDTTest.csproj",
+      "projectName": "FibonacciDDTTest",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Super Project\\Ky 5\\SWT\\Fibonacci\\Fibonacci\\FibonacciDDTTest.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\Desktop\\Super Project\\Ky 5\\SWT\\Fibonacci\\Fibonacci\\obj\\",
       "projectStyle": "PackageReference",
