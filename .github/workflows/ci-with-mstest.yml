@@ -1,4 +1,4 @@
-name: .NET
+name: CI with GitHub Action using .NET and MSTest | © 2022 ducanhnt22
 
 on:
   push:
