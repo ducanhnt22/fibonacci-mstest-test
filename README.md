@@ -1,3 +1,5 @@
+[![.NET](https://github.com/ducanhnt22/fibonacci-mstest-test/actions/workflows/ci-with-mstest.yml/badge.svg)](https://github.com/ducanhnt22/fibonacci-mstest-test/actions/workflows/ci-with-mstest.yml)
+
 # Welcome to Fibonacci Test Using MSTest
 
 
