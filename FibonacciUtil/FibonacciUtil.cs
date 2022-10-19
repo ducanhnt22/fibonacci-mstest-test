@@ -14,7 +14,7 @@
             }
             else
             {
-                return fibonaci(n - 1) + fibonaci(n - 2);
+                return fibonaci(n - 1) + fibonaci(n - 1);
             }
         }
     }
