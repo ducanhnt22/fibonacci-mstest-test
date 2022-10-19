@@ -25,5 +25,3 @@ jobs:
       run: dotnet test --no-build --verbosity normal
     - name: 'Upload Artifact'
       uses: actions/upload-artifact@v1
-      with:
-        name: my-artifact
