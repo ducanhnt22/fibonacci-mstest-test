@@ -19,7 +19,7 @@ namespace Fibonacci
                     new object[] { 34, 9 },
                     new object[] { 55, 10 },
                     new object[] { 610, 15 },
-                    //new object[] { 987, 16 }
+                    new object[] { 907, 16 }
                 };
             }
         }

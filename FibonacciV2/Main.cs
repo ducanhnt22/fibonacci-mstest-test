@@ -43,9 +43,9 @@ namespace Fibonacci
             //nen phai hien ra ArgumentOutOfRangeException
 
             //Expect: ArgumentOutOfRangeException
-            //actual =FibonacciUtil.fibonaci(47);
-            //Console.WriteLine($"Expected: Error || Actual: {actual}");
-            //Console.ReadLine();
+            actual = FibonacciUtil.fibonaci(47);
+            Console.WriteLine($"Expected: Error || Actual: {actual}");
+            Console.ReadLine();
         }
     }
 }

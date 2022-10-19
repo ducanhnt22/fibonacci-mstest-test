@@ -29,12 +29,12 @@ namespace FibonacciUtilTest
         {
             //Testcase 4:
             //n = 50 => tran data => hi vong se thay duoc exception
-            Assert.ThrowsException<ArgumentOutOfRangeException> (() 
+            Assert.ThrowsException<ArgumentOutOfRangeException>(()
                 => FibonacciUtil.fibonaci(50));
 
             //Testcase 5:
             //n = -10 => khong co => hi vong se duoc thay out of range exception
-            Assert.ThrowsException<ArgumentOutOfRangeException> (() 
+            Assert.ThrowsException<ArgumentOutOfRangeException>(()
                 => FibonacciUtil.fibonaci(-10));
         }
     }
