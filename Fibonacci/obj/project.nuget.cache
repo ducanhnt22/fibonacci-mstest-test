@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YPKh473/iHhrfRFS0aRngptvvQX9p/LKYMtGG2rcK1GLsuBPF2+BC8whUCKoElnKI89jvaYrR7GrWTE5Y5j28A==",
+  "dgSpecHash": "UOPvLQPtVwBSbsj+DZ1R9SCSSWpkTkTcnsAUxEXvQPnIF04hAi9/+MAn2DJnqwBfTWPhNYAL+gfcvNtT9egSPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Super Project\\Ky 5\\SWT\\Fibonacci\\Fibonacci\\FibonacciDDTTest.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Super Project\\Ky 5\\SWT\\Fibonacci\\Fibonacci\\FibonacciDDTTestWithFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
