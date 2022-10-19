@@ -46,7 +46,6 @@ namespace Fibonacci
             //actual =FibonacciUtil.fibonaci(47);
             //Console.WriteLine($"Expected: Error || Actual: {actual}");
             //Console.ReadLine();
-
         }
     }
 }

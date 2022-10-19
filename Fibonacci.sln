@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "com.swt301.g4.fibonacci.cor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciUtil", "FibonacciUtil\FibonacciUtil.csproj", "{EC00DF95-BFB7-4F61-B447-DFEECBC7CF88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciUtilTest", "FibonacciUtilTest\FibonacciUtilTest.csproj", "{8ABBB791-57DB-4FFF-A973-64B8CC78D6F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciUtilTestWithFramework", "FibonacciUtilTest\FibonacciUtilTestWithFramework.csproj", "{8ABBB791-57DB-4FFF-A973-64B8CC78D6F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
