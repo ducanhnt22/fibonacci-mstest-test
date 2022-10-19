@@ -23,5 +23,5 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
-    - name: 'Upload Artifact'
-      uses: actions/upload-artifact@v1
+    - name: Download all workflow run artifacts
+      uses: actions/download-artifact@v3
