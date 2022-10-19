@@ -24,7 +24,7 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
     - name: dll file
-      run: mkdir staging && cp bin/Debug/net6.0/*.dll staging
+      run: mkdir staging && cp Fibonacci/bin/Debug/net6.0/*.dll staging
     - name: Make hyperlink to .dll file
       uses: actions/upload-artifact@v3
       with:
